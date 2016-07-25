@@ -1,0 +1,11 @@
+{
+  "ecocity": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "ecocity",
+    "password": "32158677",
+    "name": "ecocity",
+    "connector": "mongodb",
+    "user": "root"
+  }
+}
